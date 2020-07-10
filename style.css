@@ -1,0 +1,165 @@
+  
+  body{
+    background-color: #5e5b5b3d;
+    max-width: 1140px;
+  }
+
+  .container{
+   margin: 0 auto;
+   padding: 0 10%;
+   
+  }
+  
+  header{
+    color: white;
+  }
+  
+  
+  .h-officeContact{
+    position: absolute;
+    right: 10%;
+    width: 80rem;
+   
+  }
+
+  .i-btn{
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+    list-style: none;
+    font-size: 70%;
+    padding: 5px 10px;
+    margin-right:20px;
+    width: 30%;
+    text-align: center;
+  }
+  .n-btn{
+    border-radius: 20px;
+    background-color: rgb(59, 78, 185);
+    color: white;
+    font-size: 60%;
+    list-style: none;
+    padding: 8px 10px;
+    margin-right:20px;
+    width: 25%;
+    text-align: center;
+  }
+  .n-btn-2{
+    border-radius: 20px;
+    background-color: rgb(59, 78, 185);
+    color: white;
+    font-size: 70%;
+    list-style: none;
+    padding: 8px 10px;
+    margin-right:20px;
+    width: 50%;
+    text-align: center;
+  }
+  .n-btn-3{
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+    font-size: 90%;
+    list-style: none;
+    padding: 10px 10px;
+    margin-right:20px;
+    width: 70%;
+  
+    text-align: center;
+  }
+  .n-btn-4{
+    border-radius: 20px;
+    background-color: rgba(53, 175, 53,.3);
+    color: white;
+    font-size: 90%;
+    list-style: none;
+    padding: 10px 10px;
+    margin-right:20px;
+    width: 70%;
+  
+    text-align: center;
+  }
+  .n-btn-3{
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+    font-size: 90%;
+    list-style: none;
+    padding: 10px 10px;
+    margin-right:20px;
+    width: 70%;
+  
+    text-align: center;
+  }
+  .bag{
+    background-image: url(home.png);
+
+    min-height: 70vh;
+    background-size: cover;
+    background-position: center;
+    /* background-attachment: fixed; */
+    background-color: rgb(53, 175, 53);
+  }
+  
+
+
+  .gmap {
+    height: 0;
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    }
+    .gmap iframe {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    }
+
+    .font-g{
+     font-size: 1.5em;
+     padding: 2px;
+    }
+    .font-m{
+      font-size: 1rem;
+      padding: 2px;
+    }
+    .font-s{
+      font-size: .8rem;
+      padding: 1px;
+    }
+    .font-sx{
+      font-size: .5rem;
+      padding: 1px;
+    }
+    .font-50{
+      font-size: 50%;
+
+    }
+
+    .bg-gry{
+      background-color: #d2d2d2;
+    }
+    .bg-red{
+
+    }
+    .bg-green{
+
+    }
+    .bg-g{
+
+    }
+    .bg-g{
+
+    }
+
+    @media screen and (max-width:810px) {
+      
+       .h-officeContact{
+        position: absolute;
+        right: ;
+        ;
+        
+      }
+    }
